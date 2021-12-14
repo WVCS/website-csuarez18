@@ -1,3 +1,37 @@
 body {
-background-color: purple;
+  background-color: #84a98c ;
+}
+
+h1 {
+  color: #2f3e46;
+  background-color: #52796f;
+  
+}
+
+p {
+  color: #354f52;
+  font-size: 25px;
+}
+
+img {
+  max-width: 25%;
+}
+
+nav {
+  list-style-type: none;
+  background-color: #52796f;
+  width: 100%;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #2f3e46;
+  text-decoration: none;
+  padding: 20px 185px;
+  font-size: 25px;
 }
