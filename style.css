@@ -25,13 +25,13 @@ nav {
 }
 
 li {
-  float: none;
+  
 }
 
 li a {
   display: block;
   color: #2f3e46;
   text-decoration: none;
-  padding: 20px 185px;
+  padding: 200px 185px;
   font-size: 25px;
 }
